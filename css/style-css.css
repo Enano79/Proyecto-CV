@@ -1,0 +1,23 @@
+h2 {
+        color:blue;
+        background: lightblue;
+    }
+p{
+        color: chocolate;
+}
+li{
+    color: blueviolet  ;
+}
+
+#destacado
+{
+
+    color: chartreuse;
+
+}
+
+/*selector por clase*/
+.titulo-sec
+{
+    color:red;
+}
